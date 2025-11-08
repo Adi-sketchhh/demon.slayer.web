@@ -1,0 +1,25 @@
+body{
+
+    background-color: rgb(0, 0, 0);
+}
+header {
+     h1 {
+         background-color: rgb(209, 94, 235);
+         }
+    h4 {
+        background-color: rgb(208, 219, 153);
+    }
+ }
+ aside{
+    background-color: rgb(45, 83, 207);
+ }
+ main{
+    h2{
+       padding-left: 500px;
+    }
+ }
+ main{  
+        position: absolute;
+        top: 150px;
+        left: 400px;
+ }
